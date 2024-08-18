@@ -1,0 +1,11 @@
+
+ß
+java:S1598"¼This file "VideoConverter.java" should be located in "com/eragapati/video/converter" directory, not in "/Users/ravieragapati/MyPOC/video-converter/src/main/java/com/eragapati/karate/demo".(ˆÙ‹áıÿÿÿÿ8ö×÷¾–2
+‚
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(àü¥êıÿÿÿÿJ$092d2cfd-3a8d-4f2b-b071-ab0251650380
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶ÈJ$1b46079b-cf02-42c3-ad95-a234f12ce320
+k	java:S106"+Replace this use of System.out by a logger.(€ÎìşÿÿÿÿJ$ed05100f-f736-4f2f-8a46-e1c434835795
+{	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿJ$29f123a1-e04b-49b1-8ce8-7d318a8babac
+
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿJ$baee48af-8f1a-4df1-8a5d-56e3c8c958dc
